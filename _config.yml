@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "es-ES"
 title                    : "César Domínguez / Web personal"
 title_separator          : "-"
 name                     : &name "César Domínguez"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &sernecesario
 facebook:
   username               :
   app_id                 :
